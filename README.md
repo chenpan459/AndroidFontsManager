@@ -1,8 +1,6 @@
 # FontsManager
 ### 字体管理器，方便快速的为应用内所有组件更换字体。
 
-### 作者微博: [@安卓攻城师sloop](http://weibo.com/5459430586)
-
 # 使用文档
 ### 初始化
 		FontsManager.init(typeface);                     //传入一个typeface初始化
